@@ -1,7 +1,7 @@
 {
-  "name": "story-protocol-lz",
+  "name": "0xstory",
   "version": "1.0.0",
-  "description": "Story protocol with LayerZero integration",
+  "description": "Cross chain protocol IP management protocol, ft Story Protocol and Layer Zero",
   "main": "index.js",
   "engines": {
     "npm": ">=9.0.0 <10.0.0",

@@ -1,5 +1,5 @@
 # 0xstory
-Cross chain protocol IP management protocol, ft Story Protocol and Layer Zero
+Cross chain protocol IP management protocol, ft Story Protocol and Layer Zero.
 This is a demo for minting and registering an IP NFT with Story protocol on remote chain using Layer Zero.
 
 ## Contracts description
